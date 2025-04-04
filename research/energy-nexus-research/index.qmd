@@ -14,11 +14,27 @@ listing:
   grid-item-align: left
   grid-columns: 2
   image-height: 200px
+  max-items: 4
 #  categories: true
 #  sort-ui: true
 #  filter-ui: true
   contents: 
     - ../../publications.yml
+  include: 
+    categories: "energy-nexus"
+
+- id: featured-projects
+  sort: "date desc"
+  type: grid
+  fields: [image, title, subtitle, description, date]
+  grid-item-align: left
+  grid-columns: 2
+  image-height: 200px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:  
+    - ../../projects.yml
   include: 
     categories: "energy-nexus"
 ---
@@ -34,6 +50,14 @@ Understanding how energy nexus systems interact and influence each other within 
 
 :::{#featured-publications}
 :::
+
+<p align="right">[More Publications »](/more-publications.qmd#category=energy-nexus)</p>
+
+## Featured projects
+
+:::{#featured-projects}
+:::
+
 
 <!--Include social share buttons-->
 

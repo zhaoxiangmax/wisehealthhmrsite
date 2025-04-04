@@ -14,6 +14,7 @@ listing:
   grid-item-align: left
   grid-columns: 2
   image-height: 200px
+  max-items: 4
 #  categories: true
 #  sort-ui: true
 #  filter-ui: true
@@ -56,6 +57,7 @@ China is the world's largest emitter of greenhouse gases. It has set a target to
 :::{#featured-publications}
 :::
 
+<p align="right">[More Publications »](/more-publications.qmd#category=china)</p>
 
 ## Featured news
 
