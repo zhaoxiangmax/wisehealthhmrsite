@@ -13,9 +13,7 @@ website:
     left:
       - text: About
         href: about.qmd
-      - text: Teaching
-        href: teaching.qmd
-      - text: HMR
+      - text: Home Mediciness Reviews
         href: hmr.qmd
       - text: Contact
         href: contact.qmd

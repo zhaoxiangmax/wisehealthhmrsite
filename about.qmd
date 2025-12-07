@@ -1,6 +1,6 @@
 ---
-title: "About Deep Policy Lab"
-subtitle: "Deep analysis, deep insights, for deep decarbonization"
+title: "Wise Health Home Medicines Review"
+subtitle: "Better Understanding. Better Treatment. Better Health."
 #image: files/framework.jpeg
 page-layout: full
 ---
@@ -13,17 +13,13 @@ page-layout: full
 ::: {.g-col-12 .g-col-md-7}
 
 
-The **Deep Energy and Climate Policy Lab** (Deep Policy Lab), founded by [Dr. Gang He](https://drganghe.github.io)'s team at Baruch College, City University of New York, aims to provide deep analysis and deep insights for deep decarbonization to address climate grand challenges.
+**Wise Health Home Medicines Review**, founded and run by accredited pharmacist Sean Zhang, delivers personalised medication reviews designed to support both patients and their GPs. 
 
-The "DEEP" in Deep Policy Lab stands for **D**ata-driven, **E**vidence based, **E**nergy and climate **P**olicy, reflecting our commitment to robust analysis and research that empowers informed energy decisions and climate actions. 
+Based in Brisbane, we proudly serve our local community by identifying medication-related risks, improving understanding of treatment plans, and ensuring every patient receives safe and effective therapy in the comfort of their own home. Sean is also fluent in Mandarin, allowing him to communicate clearly with patients who prefer consultations in that language, ensuring culturally responsive and patient-centred care.
 
-Our mission is to advance effective energy and climate solutions through rigorous, data-driven analysis and collaborative dialogue. 
+Our mission is to leverage Sean’s more than ten years of frontline experience in providing medication services, along with his strong communication skills and clinical expertise, to help GPs and patients achieve better, safer, and more effective medical solutions.
 
-At Deep Policy Lab, we leverage energy systems modeling, techno-economic analysis, big data, AI, and social sciences to shape policies on renewable energy, clean energy supply chains, deep decarbonization, and other key areas critical to the energy transition and achieving carbon neutrality. 
-
-We actively collaborate with academic institutions, government agencies, industry partners, and civil society organizations to foster innovation and impact in energy and climate policy.
-
-Contact: Sean Zhang: <gang.he@baruch.cuny.edu>
+Contact: Sean Zhang: <sean.zhang@wisehealthhmr.com>
 :::
 
 <!--
