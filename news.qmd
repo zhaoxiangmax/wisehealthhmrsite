@@ -38,20 +38,27 @@ listing:
   contents: news.yml
 ---
 
-
 ## Release
 
-:::{#release}
+::: {#release}
 :::
 
-<p align="right">[More Releases »](/more-news.qmd#release)</p>
+<p align="right">
+
+[More Releases »](/more-news.qmd#release)
+
+</p>
 
 ## Media
 
-:::{#news}
+::: {#news}
 :::
 
-<p align="right">[More Coverage »](/more-news.qmd#media)</p>
+<p align="right">
+
+[More Coverage »](/more-news.qmd#media)
+
+</p>
 
 <!--Include social share buttons-->
 
