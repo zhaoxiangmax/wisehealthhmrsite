@@ -7,27 +7,33 @@ page-layout: custom
 
 {{< include /files/includes/_msclarity.qmd >}}
 
-:::::::: {.background-frame .alt-background}
+:::::::: {.background-frame .alt-background .hero-section}
 ::::::: content-block
 <!-- HERO SECTION -->
 
 :::::: grid
 :::: {.g-col-12 .g-col-md-7}
-<p align="center" style="font-size:32px; font-weight:bold; margin-bottom:0.5em;">
+<p align="center" style="font-size:32px; font-weight:bold; margin-bottom:3em;">
 
-**Welcome to Wise Health Home Medicines Review**
+## **Welcome to Wise Health Home Medicines Review**
 
 </p>
 
 <p align="center" style="font-size:22px; margin-bottom:0.2em;">
 
-Better Understanding. Better Treatment. Better Health.
+#### *Better Understanding. Better Treatment. Better Health.*
 
 </p>
 
-<p align="center" style="font-size:22px;">
+<p align="center" style="font-size:22px; margin-bottom:0.2 rem;">
 
-Based in Brisbane, proudly serving our local communities.
+#### *Based in Brisbane, proudly serving our local communities.*
+
+</p>
+
+<p align="center" style="font-size:22px; margin-bottom:3rem;">
+
+**Wise Health Home Medicines Review**, founded and led by accredited pharmacist **Sean Zhang**, provides personalised Home Medicines Reviews to support both patients and their GPs. Based in Brisbane, we focus on identifying medication-related risks, improving understanding of treatment plans, and promoting safe and effective therapy in the home. Sean brings over ten years of frontline experience in medication services and is fluent in Mandarin, enabling clear, culturally responsive care for patients who prefer consultations in that language.
 
 </p>
 
@@ -39,31 +45,13 @@ Based in Brisbane, proudly serving our local communities.
 ::: {.g-col-12 .g-col-md-5}
 [![](/files/images/seanz.jpg)](about.qmd)
 
+::: {.photo-caption}
 **Sean Zhang**
 
 Accredited Pharmacist\
 Founder — Wise Health Home Medicines Review
 :::
+:::
 ::::::
 :::::::
 ::::::::
-
-<!-- ABOUT SECTION -->
-
-::::: {.grid style="margin-top:2em; padding-left:10rem; padding-right:10rem;"}
-::: {.g-col-12 .g-col-md-7}
-**Wise Health Home Medicines Review**, founded and led by accredited pharmacist **Sean Zhang**, provides personalised medication reviews designed to support both patients and their GPs.
-
-Based in Brisbane, we proudly serve our local community by identifying medication-related risks, improving understanding of treatment plans, and ensuring every patient receives safe and effective therapy in the comfort of their own home. Sean is fluent in Mandarin, enabling clear communication with patients who prefer consultations in that language — supporting culturally responsive and patient-centred care.
-
-Our mission is to leverage Sean’s more than ten years of frontline experience in medication services, combined with strong communication skills and clinical expertise, to help GPs and patients achieve better, safer, and more effective medical solutions.
-
-**Contact:**\
-Sean Zhang\
-[sean.zhang\@wisehealthhmr.com](mailto:sean.zhang@wisehealthhmr.com){.email}
-:::
-
-::: {.g-col-12 .g-col-md-5}
-![](/files/images/wisehealthlogowhite.jpg){width="50%"}
-:::
-:::::

@@ -1,58 +1,56 @@
 ---
-title: "Home Medicines Review"
-subtitle: " "
-#image: files/framework.jpeg
+title: " "
 page-layout: full
 ---
 
-<!--Please delete or replace with your own clarity-->
-{{< include /files/includes/_msclarity.qmd >}}
+::: {.profile-intro}
+# Home Medicines Review
 
-::: {.grid}
+### **What is Home Medicines Review (HMR)?**
 
-::: {.g-col-12 .g-col-md-7}
+A program funded by the Australian Government Department of Health &
+Ageing under the 6th Community Pharmacy agreement. The HMR program aims
+to increase quality use of medicines and reduce adverse medicine events
+by conducting a comprehensive review of a patient’s medicine in the
+patient’s home.
 
+### **Cost of HMRs**
 
-**Home Medicines Review (HMR)**
+No cost to the patient nor the medical practice.
 
-A program funded by the Australian Government Department of Health & Ageing under the 6th Community Pharmacy agreement. The HMR program aims to increase quality use of medicines and reduce adverse medicine events by conducting a comprehensive review of a patient’s medicine in the patient’s home.
+### **Financial Benefits for Your Practice Through Patient Referrals**
 
-**Patient Eligibility**
+GPs are able to claim for a fully completed MBS Item 900. As an example
+of revenue growth over a 12-month period, 5 HMR referrals per week will
+generate around \$47,000 in additional income for the referring GP.
 
-A GP determines if a patient is eligible for a HMR. Eligibility includes:
-▪	Takes more than 12 doses of a medicine per day;
-▪	Have difficulty managing their own medications because of illiteracy or language barriers or impaired sight;
-▪	Attend a number of different doctors, both GPs and specialists;
-▪	Have been discharged from hospital in the previous four weeks;
-▪	Have had a significant change to their medication regimen in the past three months
-▪	Have experienced a change in their medical condition or abilities – e.g. falls, cognition, physical function;
-▪	Use prescription medicine with a narrow therapeutic index or medicine that needs therapeutic monitoring;
-▪	Have symptoms of an adverse drug reaction;
-▪	Have a sub-therapeutic response to therapy;
-▪	Have problems managing medication devices, e.g. DAAs(Dose Administration Aids);
-▪	Are at risk or cannot manage their medication due to changes in dexterity, confusion or impaired vision;
+### **Patient Eligibility**
 
-**Cost of HMRs**
+A GP determines if a patient is eligible for a HMR. Eligibility
+includes:
 
-No cost to the patient nor the medical practice. 
+▪ Takes more than 12 doses of a medicine per day;  
+▪ Have difficulty managing their own medications because of illiteracy,
+  language barriers, or impaired sight;  
+▪ Attend a number of different doctors, both GPs and specialists;  
+▪ Have been discharged from hospital in the previous four weeks;  
+▪ Have had a significant change to their medication regimen in the past
+  three months;  
+▪ Have experienced a change in their medical condition or abilities
+  (e.g. falls, cognition, physical function);  
+▪ Use prescription medicine with a narrow therapeutic index or medicine
+  that requires therapeutic monitoring;  
+▪ Have symptoms of an adverse drug reaction;  
+▪ Have a sub-therapeutic response to therapy;  
+▪ Have problems managing medication devices, e.g. DAAs (Dose
+  Administration Aids);  
+▪ Are at risk or unable to manage their medication due to reduced
+  dexterity, confusion, or impaired vision.
 
-**Financial Benefits for Your Practice Through Patient Referrals**
-GPs are able to claim for a fully completed MBS Item 900. As an example of revenue growth over a 12-month period, 5 HMR referrals per week will generate around $47,000 in additional income for the referring GP.
+### Contact  
+Sean Zhang: [sean.zhang@wisehealthhmr.com](mailto:sean.zhang@wisehealthhmr.com){.email}
 
-
-Contact: Sean Zhang: <sean.zhang@wisehealthhmr.com>
-:::
-
-<!--
-:::{style="font-size: 1rem;"}
-:::
--->
-
-::: {.g-col-12 .g-col-md-5}
-
-![](/files/images/wisehealthlogowhite.jpg)
-
-:::
+Sean is also happy to arrange a clinic visit to discuss the HMR process and how my service can support your practice.
 
 :::
 

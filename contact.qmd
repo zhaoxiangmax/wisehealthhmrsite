@@ -1,45 +1,45 @@
 ---
-title: "Contact"
-subtitle: "Contact me to know more about HMR"
-title-block-banner: false
+title: " "
 page-layout: full
-toc: true
+toc: false
 ---
 
-<!--Please delete or replace with your own clarity-->
-{{< include /files/includes/_msclarity.qmd >}}
+::: {.contact-container}
 
-## Contact us
+## Get in touch
 
-::: {.grid}
+If you have any questions about Home Medicines Reviews (HMRs), referrals, or would like to discuss how we can support your patients, please complete the form below and we will be in touch shortly.
 
-::: {.g-col-12 .g-col-md-6}
+*Sean is also happy to arrange a clinic visit to discuss the HMR process and how my service can support your practice.*
 
-<center>
+<form class="contact-form"
+      action="https://formspree.io/f/xeejdbjg"
+      method="POST">
 
-**Sean Zhang**
-Accredited Pharmacist
+<label>
+Your name
+<input type="text" name="name" required>
+</label>
 
-Mobile: <0432 805 979>
+<label>
+Your email
+<input type="email" name="email" required>
+</label>
 
-E-mail: <sean.zhang@wisehealthhmr.com>
+<label>
+Phone (optional)
+<input type="tel" name="phone">
+</label>
 
+<label>
+Your message
+<textarea name="message" rows="5" required></textarea>
+</label>
 
-</center>
+<button type="submit" class="btn btn-primary">
+Send enquiry
+</button>
 
-:::
-
-::: {.g-col-12 .g-col-md-6}
-
-<center>
-
-**Wise Health Home Medicines Review**
-
-E-mail: <sean.zhang@wisehealthhmr.com>
-
-
-</center>
-
-:::
+</form>
 
 :::

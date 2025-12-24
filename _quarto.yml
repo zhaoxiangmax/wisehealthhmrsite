@@ -1,16 +1,19 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - files/**
 
 website:
-  title: "Sean Zhang"
-  image: "/files/images/sean.png"
-  description: "Accredited Pharmacist | Clinical Mentor | Aspiring Medical Science Liaison | Expert in HMR & Interprofessional Collaboration"
- 
   navbar:
     background: "#05336B"
     foreground: "#FFFFFF"
+    logo: /files/images/wisehealthlogowhite.jpg
+    title: "Wise Health HMR"
+    href: index.qmd  
     left:
+      - text: Sean Zhang
+        href: index.qmd    
       - text: About
         href: about.qmd
       - text: Home Medicines Reviews
@@ -22,7 +25,7 @@ website:
         href: https://www.linkedin.com/in/sean-zhang-a4486a290/
   page-navigation: true
   page-footer: 
-    left: "[Sean Zhang](http://wisehealthhmr.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    center: "[Sean Zhang](http://wisehealthhmr.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
   search:
     location: navbar
     type: textbox
@@ -42,7 +45,7 @@ bibliography: references.bib
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: custom.css
     toc: true
     link-external-icon: false
     link-external-newwindow: true 

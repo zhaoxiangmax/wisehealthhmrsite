@@ -135,3 +135,161 @@ font-size: 12px;
     overflow-x: hidden !important;
 }
 
+/* About page – profile intro spacing */
+.profile-inner {
+  padding-top: 2rem;
+}
+
+/* 防止标题自己再顶开 */
+.profile-inner h1 {
+  margin-top: 0;
+}
+
+/* 让图片和文字视觉对齐 */
+.profile-inner img {
+  margin-top: 0.25rem;
+}
+
+/* About page – increase font size */
+.profile-inner {
+  font-size: 1.15rem;
+  line-height: 1.65;
+}
+
+/* About page – organisation section font size */
+.about-section {
+  font-size: 1.15rem;
+  line-height: 1.65;
+  margin-top: 2.5rem;
+}
+
+/* Make section titles larger */
+.profile-inner h2,
+.about-section h2 {
+  font-size: 2.2rem;
+  font-weight: 600;
+}
+
+/* Increase space below section subtitles */
+.profile-inner h3,
+.about-section h3 {
+  margin-bottom: 1.5rem;
+}
+
+/* Homepage hero vertical spacing */
+.hero-section {
+  padding-top: 5rem;
+}
+
+/* Homepage hero text size */
+.hero-section {
+  font-size: 1.15rem;
+  line-height: 1.6;
+}
+
+/* Center text under profile photo */
+.photo-caption {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+/* Contact page width control */
+.contact-container {
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+/* Contact form styling */
+.contact-form {
+  margin-top: 2rem;
+}
+
+.contact-form label {
+  display: block;
+  margin-bottom: 1.2rem;
+  font-weight: 500;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 0.6rem;
+  margin-top: 0.3rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+
+.contact-form button {
+  margin-top: 1rem;
+  padding: 0.6rem 1.5rem;
+  border-radius: 30px;
+}
+
+/* Contact page typography */
+.contact-container {
+  font-size: 1.15rem;
+  line-height: 1.65;
+}
+
+/* HMR page – main content typography */
+.profile-intro {
+  font-size: 1.15rem;
+  line-height: 1.65;
+}
+
+/* Center page footer content */
+.footer .footer-center,
+.page-footer .footer-center {
+  text-align: center;
+}
+
+/* Make navbar full-width */
+.navbar .container,
+.navbar .container-fluid {
+  max-width: 100% !important;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+/* Make navbar taller / thicker */
+.navbar {
+  padding-top: 0.8rem;
+  padding-bottom: 0.8rem;
+}
+
+
+/* Navbar font size */
+.navbar {
+  font-size: 1.4rem;
+}
+
+/* Slightly larger brand text */
+.navbar-brand,
+.navbar-brand-button {
+  font-size: 1.5rem;
+}
+
+/* Enlarge navbar icons (e.g. LinkedIn) */
+.navbar .nav-link i {
+  font-size: 1.4rem;
+}
+
+.navbar-brand img {
+  height: 60px;
+  width: auto;
+  margin-right: 0.5rem;
+}
+
+.navbar {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+}
+
+.navbar-brand {
+  display: flex;
+  align-items: center;
+}

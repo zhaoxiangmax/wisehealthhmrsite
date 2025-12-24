@@ -1,6 +1,5 @@
 ---
-title: "Wise Health Home Medicines Review"
-subtitle: "Better Understanding. Better Treatment. Better Health."
+title: " "
 page-layout: full
 ---
 
@@ -8,26 +7,38 @@ page-layout: full
 
 <!-- INTRO SECTION -->
 
-::::: {.grid style="margin-top: 1.5em;"}
+:::::::: {.grid .profile-section}
+::::::: g-col-12
+:::::: profile-inner
+::::: grid
 ::: {.g-col-12 .g-col-md-7}
-# **Sean Zhang**
+## Sean Zhang
 
-Accredited Pharmacist\
-Founder — Wise Health Home Medicines Review
+### **Accredited Pharmacist, Founder of Wise Health Home Medicines Review**
+
+Accredited pharmacist with over 10 years of clinical experience in community and aged care, specialising in Home Medicines Reviews (HMRs), polypharmacy, and deprescribing. AACP- and PSA-credentialed, with a strong focus on improving medication safety and quality use of medicines through collaborative, patient-centred care.
+
+Bachelor of Pharmacy, The University of Queensland (2013).
+
+**Contact Sean**: [sean.zhang\@wisehealthhmr.com](sean.zhang@wisehealthhmr.com)
 :::
 
 ::: {.g-col-12 .g-col-md-5}
 ![](/files/images/seanz.jpg)
 :::
 :::::
-
-::: {style="height: 4em;"}
-:::
+::::::
+:::::::
+::::::::
 
 <!-- ABOUT SECTION -->
 
-::::: {.grid style="margin-top: 2.5em;"}
+::::: {.grid .about-section}
 ::: {.g-col-12 .g-col-md-7}
+## Wise Health Home Medicines Review {#wise-health-home-medicines-review}
+
+### Better Understanding. Better Treatment. Better Health.
+
 **Wise Health Home Medicines Review**, founded and led by accredited pharmacist **Sean Zhang**, provides personalised medication reviews designed to support both patients and their GPs.
 
 Based in Brisbane, we proudly serve our local community by identifying medication-related risks, improving understanding of treatment plans, and ensuring every patient receives safe and effective therapy in the comfort of their own home.
@@ -35,10 +46,6 @@ Based in Brisbane, we proudly serve our local community by identifying medicatio
 Sean is fluent in Mandarin, offering clear and culturally responsive communication for patients who prefer consultations in that language.
 
 Our mission is to leverage Sean’s more than ten years of frontline experience in medication services—combined with strong communication skills and clinical expertise—to help GPs and patients achieve better, safer, and more effective medical solutions.
-
-**Contact**\
-Sean Zhang\
-[sean.zhang\@wisehealthhmr.com](mailto:sean.zhang@wisehealthhmr.com){.email}
 :::
 
 ::: {.g-col-12 .g-col-md-5}
