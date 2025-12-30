@@ -1,5 +1,6 @@
 ---
-title: " "
+title: "About"
+title-block: false
 page-layout: full
 ---
 

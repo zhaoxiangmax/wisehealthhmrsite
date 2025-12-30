@@ -1,45 +1,38 @@
 ---
-title: " "
+title: "Contact"
+title-block: false
 page-layout: full
 toc: false
 ---
 
-::: {.contact-container}
-
+::: contact-container
 ## Get in touch
 
 If you have any questions about Home Medicines Reviews (HMRs), referrals, or would like to discuss how we can support your patients, please complete the form below and we will be in touch shortly.
 
 *Sean is also happy to arrange a clinic visit to discuss the HMR process and how my service can support your practice.*
 
-<form class="contact-form"
-      action="https://formspree.io/f/xeejdbjg"
-      method="POST">
+<form class="contact-form" action="https://formspree.io/f/xeejdbjg" method="POST">
 
-<label>
-Your name
-<input type="text" name="name" required>
-</label>
+<label> Your name <input type="text" name="name" required> </label>
 
-<label>
-Your email
-<input type="email" name="email" required>
-</label>
+<label> Your email <input type="email" name="email" required> </label>
 
-<label>
-Phone (optional)
-<input type="tel" name="phone">
-</label>
+<label> Phone (optional) <input type="tel" name="phone"> </label>
 
-<label>
-Your message
+<label> Your message
+
+```{=html}
 <textarea name="message" rows="5" required></textarea>
+```
+
 </label>
 
 <button type="submit" class="btn btn-primary">
+
 Send enquiry
+
 </button>
 
 </form>
-
 :::
