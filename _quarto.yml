@@ -50,7 +50,7 @@ format:
     toc: true
     link-external-icon: false
     link-external-newwindow: true
-    include-in-header: files/includes/msclarity.html
+    include-in-header: files/includes/_msclarity.html
 
 
 
