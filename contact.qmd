@@ -6,8 +6,6 @@ toc: false
 ---
 
 ::: contact-container
-## Get in touch
-
 If you have any questions about Home Medicines Reviews (HMRs), referrals, or would like to discuss how we can support your patients, please complete the form below and we will be in touch shortly.
 
 *Sean is also happy to arrange a clinic visit to discuss the HMR process and how my service can support your practice.*

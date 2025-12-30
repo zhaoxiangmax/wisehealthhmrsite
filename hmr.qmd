@@ -5,7 +5,6 @@ page-layout: full
 ---
 
 ::: {.profile-intro}
-# Home Medicines Review
 
 ### **What is Home Medicines Review (HMR)?**
 
