@@ -11,7 +11,7 @@ website:
   navbar:
     background: "#05336B"
     foreground: "#FFFFFF"
-    logo: /files/images/wisehealthlogowhite.jpg
+    logo: files/images/wisehealthlogowhite.jpg
     href: index.qmd  
     left:
       - text: Sean Zhang
