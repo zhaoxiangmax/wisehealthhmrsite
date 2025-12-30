@@ -51,6 +51,7 @@ format:
     link-external-icon: false
     link-external-newwindow: true
     include-in-header: files/includes/_msclarity.html
+    title: false
 
 
 
