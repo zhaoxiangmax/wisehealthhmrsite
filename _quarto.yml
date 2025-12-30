@@ -5,11 +5,13 @@ project:
     - files/**
 
 website:
+  title: "Wise Health HMR"
+  favicon: files/images/favicon.png
+
   navbar:
     background: "#05336B"
     foreground: "#FFFFFF"
     logo: /files/images/wisehealthlogowhite.jpg
-    title: "Wise Health HMR"
     href: index.qmd  
     left:
       - text: Sean Zhang
@@ -23,6 +25,7 @@ website:
     right:
       - icon: linkedin
         href: https://www.linkedin.com/in/sean-zhang-a4486a290/
+
   page-navigation: true
   page-footer: 
     center: "[Sean Zhang](http://wisehealthhmr.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
@@ -31,10 +34,8 @@ website:
     type: textbox
   reader-mode: true
   repo-url: http://wisehealthhmr.com
-#  repo-actions: [edit, issue, source]
   open-graph: true
   twitter-card: true 
-#  card-style: summary      
   site-url: "http://wisehealthhmr.com"
   google-analytics:
     tracking-id: "G-TEC97F8RGK"
